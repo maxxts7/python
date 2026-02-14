@@ -1,0 +1,7 @@
+{
+  "title": "Virtual File System",
+  "description": "Implement a VirtualFileSystem class that simulates an in-memory file system. Supports file CRUD, directory operations (mkdir, ls, recursive delete), path resolution (exists, is_file, is_directory, cd, pwd), move/copy, search (find, grep), size tracking with quotas, permission management (chmod), symbolic links, and advanced operations (tree, diff, append, truncate).",
+  "difficulty": "medium to hard",
+  "topics": ["data structures", "dictionaries", "trees", "file systems", "recursion", "permissions"],
+  "test_framework": "unittest"
+}

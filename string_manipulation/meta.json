@@ -1,0 +1,7 @@
+{
+  "title": "String Manipulation",
+  "description": "Implement a StringManipulator class with various string methods including splitting, joining, partitioning, stripping, and text extraction. Covers easy tasks (split, join), medium tasks (partition, strip, extract between delimiters), and hard tasks (CSV parsing, quoted-string-aware splitting, chunking, and interleaving).",
+  "difficulty": "easy to hard",
+  "topics": ["strings", "split", "join", "partition", "parsing"],
+  "test_framework": "pytest"
+}
